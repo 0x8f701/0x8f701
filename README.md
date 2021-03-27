@@ -6,8 +6,8 @@ Just another Rustacean, Gopher and Vimer...
 
 If you appreciate my work, buy me a coffee!
 
-- **DOT**:  `5DhZeTQqotvntGtrg69T2VK9pzUPXHiVyGUTmp5XFTDTT7ME`
+- **DOT**  :  `5DhZeTQqotvntGtrg69T2VK9pzUPXHiVyGUTmp5XFTDTT7ME`
 
-- **ETH**:  `0xbEB786e980A630F1f590981A958D21Eff0809A8B`
+- **ETH**  :  `0xbEB786e980A630F1f590981A958D21Eff0809A8B`
 
-- **NEAR**: `alexcj96.near`
+- **NEAR** :  `alexcj96.near`
