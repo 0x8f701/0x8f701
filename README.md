@@ -4,6 +4,8 @@ Just another Rustacean, Gopher and Vimer...
 
 [![Cheng JIANG's github stats](https://github-readme-stats.vercel.app/api?username=gopherj&theme=gruvbox)](https://github.com/gopherj/github-readme-stats)
 
-DOT: `5DhZeTQqotvntGtrg69T2VK9pzUPXHiVyGUTmp5XFTDTT7ME`
+If you appreciate my work, buy me a coffee!
 
-ETH: `0xbEB786e980A630F1f590981A958D21Eff0809A8B`
+- DOT: `5DhZeTQqotvntGtrg69T2VK9pzUPXHiVyGUTmp5XFTDTT7ME`
+
+- ETH: `0xbEB786e980A630F1f590981A958D21Eff0809A8B`
