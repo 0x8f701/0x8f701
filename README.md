@@ -14,7 +14,7 @@ If you appreciate my work, buy me a coffee!
 
 - **NEAR** :  `alexcj96.near`
 
-If you would like me to help on some Linux stuffs, here my public key!
+My public key:
 
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID549IuJvQRPCuRXxAWOZcrLp6nvYYEzg8gC10kbGXN4 alex_cj96@foxmail.com
