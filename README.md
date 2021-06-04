@@ -2,7 +2,8 @@
 
 Just another Rustacean, Gopher and Vimer...
 
-[![Cheng JIANG's github stats](https://github-readme-stats.vercel.app/api?username=gopherj&theme=radical&show_icons=true)
+[![Cheng JIANG's github stats](https://github-readme-stats.vercel.app/api?username=gopherj&theme=radical&show_icons=true)](https://github.com/gopherj/github-readme-stats)
+
 
 If you appreciate my work, buy me a coffee!
 
