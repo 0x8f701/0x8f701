@@ -4,9 +4,6 @@ Just another Rustacean, Gopher and Vimer...
 
 [![Cheng JIANG's github stats](https://github-readme-stats.vercel.app/api?username=gopherj&theme=radical&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gopherj&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-
 If you appreciate my work, buy me a coffee!
 
 - **BTC**  :  `3QBYnVnZmKMkKfnMahQxLXsBGJk9jPtJ5P`
