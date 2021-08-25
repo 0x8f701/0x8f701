@@ -7,7 +7,7 @@
 ![linux](https://img.shields.io/badge/-Linux-555555?style=flat&logo=Linux&logoColor=FFBF00)
 ![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=4EAA25)
 
-[![Cheng JIANG's github stats](https://github-readme-stats.vercel.app/api?username=gopherj&theme=radical&show_icons=true)](https://github.com/gopherj/github-readme-stats)
+[![Cheng JIANG's github stats](https://github-readme-stats.vercel.app/api?username=gopherj&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Cheng JIANG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
