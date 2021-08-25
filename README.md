@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000)
 ![go](https://img.shields.io/badge/-Go-555555?style=flat&logo=Go&logoColor=00ADD8)
 ![typescript](https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6)
