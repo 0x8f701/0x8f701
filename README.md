@@ -20,10 +20,4 @@ If you appreciate my work, buy me a coffee!
 
 - **ETH**  :  `0xd03dCe37AEd9bF729F84586173b2deB7e6EED2f1`
 
-- **NEAR** :  `alexcj96.near`
-
-My public key:
-
-```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID549IuJvQRPCuRXxAWOZcrLp6nvYYEzg8gC10kbGXN4 alex_cj96@foxmail.com
-```
+- **ATOM** :  `cosmos1dcp6w6znd9jafx2qlj8a6nxfmvuwj49egv9a9u`
