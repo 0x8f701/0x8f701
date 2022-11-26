@@ -6,6 +6,7 @@
 ![k8s](https://img.shields.io/badge/-K8s-555555?style=flat&logo=Kubernetes&logoColor=326CE5)
 ![linux](https://img.shields.io/badge/-Linux-555555?style=flat&logo=Linux&logoColor=FFBF00)
 ![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=4EAA25)
+[![wakatime](https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg)](https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd)
 
 [![Cheng JIANG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
