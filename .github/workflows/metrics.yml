@@ -118,21 +118,6 @@ jobs:
           base: ''
           plugin_notable: yes
 
-  indepth-analysis:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.notable.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-
   repositories:
     runs-on: ubuntu-latest
     permissions:
