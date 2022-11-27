@@ -6,9 +6,6 @@
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
 
-# Hi there 👋
-
-
 ![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000)
 ![go](https://img.shields.io/badge/-Go-555555?style=flat&logo=Go&logoColor=00ADD8)
 ![typescript](https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6)
@@ -16,6 +13,11 @@
 ![ethereum](https://img.shields.io/badge/-Ethereum-555555?style=flat&logo=Ethereum&logoColor=3C3C3D)
 ![polkadot](https://img.shields.io/badge/-Substrate-555555?style=flat&logo=Parity-Substrate&logoColor=FFFFFF)
 ![linux](https://img.shields.io/badge/-Linux-555555?style=flat&logo=Linux&logoColor=FFBF00)
+[![wakatime](https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg)](https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd)
+
+# Hi there 👋
+
+My name is Cheng JIANG, I graduated from SHU and gained my Master degree at University of Troyes with a major in Network and Telecommunications.
 
 ## About me
 
@@ -26,14 +28,11 @@
 
 ## Notable projects
 
-  - [parallel](github.com/parallel-finance/parallel)
-  - [paraspace](github.com/para-space/paraspace-core)
-  - [casbin-rs](github.com/casbin/casbin-rs)
-  - [d3-vs](https://github.com/gopherJ/Vs)
-  - [diesel-adapter](https://github.com/casbin-rs/diesel-adapter)
-  - [json-rules-engine](https://github.com/gopherJ/json-rules-engine-rs)
-
-
-[![wakatime](https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg)](https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd)
+- [parallel](github.com/parallel-finance/parallel)
+- [paraspace](github.com/para-space/paraspace-core)
+- [casbin-rs](github.com/casbin/casbin-rs)
+- [d3-vs](https://github.com/gopherJ/Vs)
+- [diesel-adapter](https://github.com/casbin-rs/diesel-adapter)
+- [json-rules-engine](https://github.com/gopherJ/json-rules-engine-rs)
 
 [![Cheng JIANG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
