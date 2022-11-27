@@ -1,6 +1,6 @@
 <a href="https://www.utt.fr" rel="nofollow"> <img align="left"
             src="utt_logo.png"
-            alt="UTT" height="24px" style="max-width: 100%;"> </a>
+            alt="UTT" height="36px" style="max-width: 100%;"> </a>
 <a href="https://twitter.com/0xJ_C" rel="nofollow"> <img align="right"
             src="twitter_logo.svg"
             alt="Twitter" height="36px" style="max-width: 100%;"> </a>
@@ -35,7 +35,11 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 <a href="https://github.com/GopherJ">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact"/>
 </a>
+<div>
 <a href="https://github.com/GopherJ">
   <img align="center" width="49%" src="./github-metrics.svg"/>
+</a>
+<a href="https://github.com/GopherJ">
   <img align="center" width="49%" src="./metrics.plugin.notable.svg"/>
 </a>
+</div>
