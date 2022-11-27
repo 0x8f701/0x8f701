@@ -20,15 +20,15 @@
 
 # Hi there 👋
 
-My name is **Cheng JIANG**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my Master degree at [University of Troyes](https://www.utt.fr/) with a major in Network and Telecommunications.
+My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my Master degree at [University of Troyes](https://www.utt.fr/) with a major in Network and Telecommunications.
 
 ## Notable contributions
 
-- [parallel](github.com/parallel-finance/parallel)
-- [paraspace](github.com/para-space/paraspace-core)
-- [casbin-rs](github.com/casbin/casbin-rs)
-- [d3-vs](https://github.com/gopherJ/Vs)
-- [diesel-adapter](https://github.com/casbin-rs/diesel-adapter)
-- [json-rules-engine](https://github.com/gopherJ/json-rules-engine-rs)
+- [Parallel](github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
+- [Para Space](github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace.
+- [Casbin RS](github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
+- [D3 Vs](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet.
+- [Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
+- [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
 
 [![Cheng JIANG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
