@@ -47,7 +47,8 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 - [Casbin RS](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 - [D3 Vs](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet.
 - [Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
-- [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
+- [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust.
+- [Actix Elastic](https://github.com/gopherJ/actix-elastic) : An actix actor for elasticsearch v7.
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact">
   <img alt="Wakatime Metrics" align="center" width="49%" src="./metrics.plugin.wakatime.svg"/>
