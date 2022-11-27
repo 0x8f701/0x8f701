@@ -52,6 +52,7 @@ I was **ranked#857** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust.
 - [Actix Elastic](https://github.com/gopherJ/actix-elastic) : An actix actor for elasticsearch v7.
 
+<div style="display:flex;justify-content:space-between;align-items:space-between;">
 <a href="https://wakatime.com/@gopherj">
   <img alt="Github Metrics"  align="center" width="49%" src="./github-metrics.svg"/>
 </a>
@@ -59,8 +60,9 @@ I was **ranked#857** on [wakatime leaderboard](https://wakatime.com/leaders), yo
   <img alt="Wakatime Metrics" align="center" width="49%" src="./metrics.plugin.wakatime.svg"/>
 </a>
 <a href="https://wakatime.com/@gopherj">
-  <img alt="LeetCode Metrics"  align="center" width="49%" src="./metrics.plugin.leetcode.svg"/>
-</a>
-<a href="https://wakatime.com/@gopherj">
   <img alt="Contributions Metrics"  align="center" width="49%" src="./metrics.plugin.notable.svg"/>
 </a>
+<a href="https://wakatime.com/@gopherj">
+  <img alt="LeetCode Metrics"  align="center" width="49%" src="./metrics.plugin.leetcode.svg"/>
+</a>
+</div>
