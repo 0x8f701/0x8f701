@@ -1,5 +1,3 @@
-# Hello there 👋
-
 <a href="https://www.utt.fr" rel="nofollow"> <img align="left"
             src="utt_logo.png"
             alt="UTT" height="36px" style="max-width: 100%;"> </a>
@@ -19,6 +17,8 @@
 •
 <b><a href="https://etherscan.io/address/0x2f2d07d60ea7330DD2314f4413CCbB2dC25276EF">Sponsor</a></b>
 </p>
+
+<p align="center"><b>A Vimer work at ethereum,polkadot,cosmos</b></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
