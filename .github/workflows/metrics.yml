@@ -25,6 +25,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
           base: ''
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
@@ -39,6 +40,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
           base: ''
           plugin_topics: yes
           plugin_topics_limit: 12
@@ -52,6 +54,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
           base: ''
           plugin_topics: yes
           plugin_topics_limit: 0
@@ -66,22 +69,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
           base: ''
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-
-  overview:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Overview
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          plugin_lines: yes
 
   snippets:
     runs-on: ubuntu-latest
@@ -168,6 +159,6 @@ jobs:
           base: ''
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            html, css, scss, javascript, python, vue, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_limit: 5
