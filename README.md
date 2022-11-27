@@ -24,7 +24,7 @@
 <b><a href="https://etherscan.io/address/0x2f2d07d60ea7330DD2314f4413CCbB2dC25276EF">Sponsor</a></b>
 </p>
 
-<p align="center"><b>A human smart contract runs on ethereum, polkadot, cosmos.</b></p>
+<p align="center"><b>A human smart contract instance deployed on earth chain.</b></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
