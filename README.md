@@ -40,7 +40,7 @@
 
 My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my Master degree at [University of Troyes](https://www.utt.fr/) with a major in Network and Telecommunications.
 
-## Notable contributions
+## Projects
 
 - [Parallel](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
 - [Para Space](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace.
