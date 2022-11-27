@@ -1,3 +1,5 @@
+# Hello there 👋
+
 <a href="https://www.utt.fr" rel="nofollow"> <img align="left"
             src="utt_logo.png"
             alt="UTT" height="36px" style="max-width: 100%;"> </a>
@@ -10,14 +12,23 @@
 <br>
 <br>
 
-![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000)
-![go](https://img.shields.io/badge/-Go-555555?style=flat&logo=Go&logoColor=00ADD8)
-![typescript](https://img.shields.io/badge/-Typescript-555555?style=flat&logo=Typescript&logoColor=3178C6)
-![bash](https://img.shields.io/badge/-Bash-555555?style=flat&logo=GNU-Bash&logoColor=4EAA25)
-![ethereum](https://img.shields.io/badge/-Ethereum-555555?style=flat&logo=Ethereum&logoColor=3C3C3D)
-![polkadot](https://img.shields.io/badge/-Substrate-555555?style=flat&logo=Parity-Substrate&logoColor=FFFFFF)
-![linux](https://img.shields.io/badge/-Linux-555555?style=flat&logo=Linux&logoColor=FFBF00)
-[![wakatime](https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg)](https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd)
+<p align="center">
+<b><a href="mailto:cocathecafe@gmail.com">Email me</a></b>
+•
+<b><a href="https://www.alexcj96.com">My Website</a></b>
+•
+<b><a href="https://etherscan.io/address/0x2f2d07d60ea7330DD2314f4413CCbB2dC25276EF">Sponsor</a></b>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/solidity%20-808080.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+</p>
 
 # Hi there 👋
 
