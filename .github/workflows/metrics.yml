@@ -119,6 +119,20 @@ jobs:
           base: ''
           plugin_notable: yes
 
+  # followers:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Followers
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.people.followers.svg
+  #         token: ${{ secrets.METRICS_TOKEN }}
+  #         base: ''
+  #         plugin_people: yes
+  #         plugin_people_types: followers
+
   # repositories:
   #   runs-on: ubuntu-latest
   #   permissions:

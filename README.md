@@ -36,12 +36,12 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 
 ## Notable contributions
 
-- [Parallel](github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
-- [Para Space](github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace.
-- [Casbin RS](github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
-- [D3 Vs](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet.
-- [Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
-- [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
+- ![Parallel](github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
+- ![Para Space](github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace.
+- ![Casbin RS](github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
+- ![D3 Vs](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet.
+- ![Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
+- ![Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact">
   <img align="center" width="49%" src="./metrics.plugin.wakatime.svg"/>
