@@ -37,4 +37,5 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 </a>
 <a href="https://github.com/GopherJ">
   <img align="center" width="49%" src="./github-metrics.svg"/>
+  <img align="center" width="49%" src="./metrics.plugin.notable.svg"/>
 </a>

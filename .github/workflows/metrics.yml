@@ -16,94 +16,94 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-  wakatime:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ''
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+  # wakatime:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: WakaTime
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.wakatime.svg
+  #         token: NOT_NEEDED
+  #         base: ''
+  #         plugin_wakatime: yes
+  #         plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+  #         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-  labels:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Labels
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ''
-          plugin_topics: yes
-          plugin_topics_limit: 12
+  # labels:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Labels
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.topics.svg
+  #         token: NOT_NEEDED
+  #         base: ''
+  #         plugin_topics: yes
+  #         plugin_topics_limit: 12
 
-  icons:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ''
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+  # icons:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Icons
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.topics.icons.svg
+  #         token: NOT_NEEDED
+  #         base: ''
+  #         plugin_topics: yes
+  #         plugin_topics_limit: 0
+  #         plugin_topics_mode: icons
 
-  leetcode:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: LeetCode
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.leetcode.svg
-          token: NOT_NEEDED
-          base: ''
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+  # leetcode:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: LeetCode
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.leetcode.svg
+  #         token: NOT_NEEDED
+  #         base: ''
+  #         plugin_leetcode: yes
+  #         plugin_leetcode_sections: solved, skills, recent
 
-  snippets:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Snippets
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.code.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
-          plugin_code: yes
-          plugin_code_languages: solidity, typescript, rust, go
-          plugin_code_load: 400
+  # snippets:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Snippets
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.code.svg
+  #         token: ${{ secrets.METRICS_TOKEN }}
+  #         base: ''
+  #         plugin_code: yes
+  #         plugin_code_languages: solidity, typescript, rust, go
+  #         plugin_code_load: 400
 
-  activity:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+  # activity:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Recent activity
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.activity.svg
+  #         token: ${{ secrets.METRICS_TOKEN }}
+  #         base: ''
+  #         plugin_activity: yes
+  #         plugin_activity_limit: 5
+  #         plugin_activity_days: 0
+  #         plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
   contributions:
     runs-on: ubuntu-latest
@@ -118,32 +118,32 @@ jobs:
           base: ''
           plugin_notable: yes
 
-  repositories:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Repositories traffic
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
+  # repositories:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Repositories traffic
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.traffic.svg
+  #         token: ${{ secrets.METRICS_TOKEN }}
+  #         base: repositories
+  #         plugin_traffic: yes
 
-  languages:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Most used languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, scss, javascript, python, vue, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, php, handlebars, jupyter network
-          plugin_languages_limit: 5
+  # languages:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+  #   steps:
+  #     - name: Most used languages
+  #       uses: lowlighter/metrics@latest
+  #       with:
+  #         filename: metrics.plugin.languages.svg
+  #         token: ${{ secrets.METRICS_TOKEN }}
+  #         base: ''
+  #         plugin_languages: yes
+  #         plugin_languages_ignored: >-
+  #           html, css, scss, javascript, python, vue, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+  #           gnuplot, php, handlebars, jupyter network
+  #         plugin_languages_limit: 5
