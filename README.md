@@ -38,9 +38,11 @@
 
 # Hi there 👋
 
-My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my Master degree at [University of Troyes](https://www.utt.fr/) with a major in Network and Telecommunications.
+My name is **CJ**, a developer who is interested and specialized in **Ethereum, Polkadot, Cosmos, Starknet, Zero-Knowledge and Cross Chain ecosystem/tech**.
 
-I was **ranked#857** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching `Cheng JIANG`.
+I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.
+
+I'm **ranked #857** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching **Cheng JIANG**.
 
 ## Projects
 
