@@ -46,8 +46,8 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 - [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact">
-  <img align="center" width="49%" src="./metrics.plugin.wakatime.svg"/>
+  <img alt="Wakatime Metrics" align="center" width="49%" src="./metrics.plugin.wakatime.svg"/>
 </a>
 <a href="https://github.com/GopherJ">
-  <img align="center" width="49%" src="./github-metrics.svg"/>
+  <img alt="Github Metrics"  align="center" width="49%" src="./github-metrics.svg"/>
 </a>
