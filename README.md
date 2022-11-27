@@ -10,6 +10,10 @@
 <br>
 <br>
 
+<div align="center">
+<img height="150"  src="ethereum.png" alt="Ethereum" />
+</div>
+
 <p align="center">
 <b><a href="mailto:cocathecafe@gmail.com">Email me</a></b>
 •
