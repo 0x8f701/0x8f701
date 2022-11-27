@@ -32,8 +32,10 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 - [Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
 - [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
 
-<div style="display:flex;justify-content:flex-end;flex-wrap:wrap;">
+<div style="display:flex;justify-content:space-between;">
   <img style="flex-basis:49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact"/>
-  <img style="flex-basis:49%" src="./github-metrics.svg"/>
-  <img style="flex-basis:49%" src="./metrics.plugin.notable.svg"/>
+  <div style="display:flex;flex-direction:column;flex-basis:49%" >
+    <img src="./github-metrics.svg"/>
+    <img src="./metrics.plugin.notable.svg"/>
+  </div>
 </div>
