@@ -8,6 +8,7 @@
             src="linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
+<br>
 
 ![rust](https://img.shields.io/badge/-Rust-555555?style=flat&logo=Rust&logoColor=000000)
 ![go](https://img.shields.io/badge/-Go-555555?style=flat&logo=Go&logoColor=00ADD8)
@@ -31,4 +32,9 @@ My name is **CJ**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my
 - [Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
 - [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine.
 
-[![Cheng JIANG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/GopherJ">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gopherj&theme=radical&layout=compact"/>
+</a>
+<a href="https://github.com/GopherJ">
+  <img align="center" width="49%" src="./github-metrics.svg"/>
+</a>
