@@ -1,3 +1,6 @@
+<a href="https://www.utt.fr" rel="nofollow"> <img align="left"
+            src="utt_logo.png"
+            alt="UTT" height="36px" style="max-width: 100%;"> </a>
 <a href="https://twitter.com/0xJ_C" rel="nofollow"> <img align="right"
             src="twitter_logo.svg"
             alt="Twitter" height="36px" style="max-width: 100%;"> </a>
@@ -17,16 +20,9 @@
 
 # Hi there 👋
 
-My name is Cheng JIANG, I graduated from SHU and gained my Master degree at University of Troyes with a major in Network and Telecommunications.
+My name is **Cheng JIANG**, I graduated from [SHU](https://www.shu.edu.cn/) and gained my Master degree at [University of Troyes](https://www.utt.fr/) with a major in Network and Telecommunications.
 
-## About me
-
-- 🌱 Currently exploring and building in the web3 space.
-- 🚀 Looking to collaborate on **hackathons and interesting projects in DeFi, cross-chain or zero-knowledge app. Feel free to DM me on Telegram**.
-- 💬 Ask me about **Ethereum, Polkadot, Cosmos, DEFI, Zero-Knowledge, Cross-chain tech**.
-- 📫 How to reach me: cocathecafe@gmail.com
-
-## Notable projects
+## Notable contributions
 
 - [parallel](github.com/parallel-finance/parallel)
 - [paraspace](github.com/para-space/paraspace-core)
