@@ -34,6 +34,7 @@
 <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<a href="https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd"><img src="https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg?style=for-the-badge" alt="Total time coded since Jun 7 2021" /></a>
 </p>
 
 # Hi there 👋
