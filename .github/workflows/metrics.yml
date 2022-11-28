@@ -90,21 +90,20 @@ jobs:
   #         plugin_code_languages: solidity, typescript, rust, go
   #         plugin_code_load: 400
 
-  # activity:
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     contents: write
-  #   steps:
-  #     - name: Recent activity
-  #       uses: lowlighter/metrics@latest
-  #       with:
-  #         filename: metrics.plugin.activity.svg
-  #         token: ${{ secrets.METRICS_TOKEN }}
-  #         base: ''
-  #         plugin_activity: yes
-  #         plugin_activity_limit: 5
-  #         plugin_activity_days: 0
-  #         plugin_activity_filter: issue, pr, release, fork, review, ref/create
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_activity: yes
+          plugin_activity_limit: 20
+          plugin_activity_timestamps: yes
 
   contributions:
     runs-on: ubuntu-latest
