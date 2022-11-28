@@ -118,6 +118,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
           plugin_notable: yes
+          plugin_notable_types: commit, pull_request, issue
 
   # followers:
   #   runs-on: ubuntu-latest
