@@ -102,7 +102,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
           plugin_activity: yes
-          plugin_activity_limit: 10
+          plugin_activity_limit: 5
           plugin_activity_timestamps: yes
 
   contributions:
