@@ -39,21 +39,21 @@
 
 # Hi there 👋
 
-My name is **CJ**, a developer who is interested and specialized in **Ethereum, Polkadot, Cosmos, Starknet, Zero-Knowledge and Cross Chain ecosystem/tech**.
+My name is **CJ**, a developer who is interested and specialized in **Ethereum, Polkadot, Cosmos, Starknet, Zero-Knowledge, Privacing Computing and Cross Chain tech**.
 
 I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.
 
 I'm **ranked #857** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching **Cheng JIANG**.
 
-## Projects
+## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Projects
 
-- [Parallel](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem.
-- [Para Space](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace.
-- [Casbin RS](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
-- [D3 Vs](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet.
-- [Diesel Adapter](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel.
-- [Json Rules Engine](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust.
-- [Actix Elastic](https://github.com/gopherJ/actix-elastic) : An actix actor for elasticsearch v7.
+- [✅ **Parallel** ](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem (Rust)
+- [✅ **Para Space** ](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace (Solidity)
+- [✅ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
+- [✅ **D3 Vs** ](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
+- [✅ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel (Rust)
+- [✅ **Json Rules Engine** ](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust (Rust)
+- [✅ **Actix Elastic** ](https://github.com/gopherJ/actix-elastic) : An actix actor for elasticsearch v7 (Rust)
 
 <a href="https://wakatime.com/@gopherj">
   <img alt="Contributions Metrics"  align="center" width="49%" src="./metrics.plugin.notable.svg"/>
