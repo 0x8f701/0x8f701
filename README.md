@@ -41,8 +41,6 @@
 <a href="https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd"><img src="https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg?style=for-the-badge" alt="Total time coded since Jun 7 2021" /></a>
 </p>
 
-# Hi there 👋
-
 My name is **CJ**, a developer who is interested and specialized in **Ethereum, Polkadot, Cosmos, Starknet, Zero-Knowledge, Privacing Computing and Cross Chain tech**.
 
 I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.
