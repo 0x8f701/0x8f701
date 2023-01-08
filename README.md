@@ -8,6 +8,10 @@
             src="linkedin_logo.svg"
             alt="LinkedIn" height="36px" style="max-width: 100%;"> </a>
 <br>
+
+<h1 align="center">
+  Hey! I'm CJ<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
+</h1>
 <br>
 
 <div align="center">
