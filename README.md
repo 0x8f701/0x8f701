@@ -10,7 +10,7 @@
 <br>
 
 <h1 align="center">
-  Hey! I'm CJ<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
+  Hey! I'm <a href="https://etherscan.io/address/0x2f2d07d60ea7330dd2314f4413ccbb2dc25276ef">alexcj96.eth</a><img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
 </h1>
 <br>
 
