@@ -45,7 +45,7 @@ My name is **CJ**, a developer who is interested and specialized in **Ethereum, 
 
 I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.
 
-I'm **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching **Cheng JIANG**.
+I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching **Cheng JIANG**.
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Projects
 
