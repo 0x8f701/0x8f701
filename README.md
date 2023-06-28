@@ -52,10 +52,12 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [✅ **Parallel** ](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem (Rust)
 - [✅ **Para Space** ](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace (Solidity)
 - [✅ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
-- [✅ **D3 Vs** ](https://github.com/gopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
+- [✅ **D3 Vs** ](https://github.com/GopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
 - [✅ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel (Rust)
-- [✅ **Json Rules Engine** ](https://github.com/gopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust (Rust)
-- [✅ **Actix Elastic** ](https://github.com/gopherJ/actix-elastic) : An actix actor for elasticsearch v7 (Rust)
+- [✅ **Json Rules Engine** ](https://github.com/GopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust (Rust)
+- [✅ **Actix Elastic** ](https://github.com/GopherJ/actix-elastic) : An actix actor for elasticsearch v7 (Rust)
+- [✅ **Layout Grid** ](https://github.com/GopherJ/LayoutGrid) : Layout grid system in VueJs (VueJs)
+- [✅ **Vim Docker Env** ](https://github.com/GopherJ/vim-docker-env) : Vim docker development environment (Dockerfile)
 
 <a href="https://wakatime.com/@gopherj">
   <img alt="Contributions Metrics"  align="center" width="49%" src="./metrics.plugin.notable.svg"/>
