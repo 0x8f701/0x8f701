@@ -41,9 +41,16 @@
 <a href="https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd"><img src="https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg?style=for-the-badge" alt="Total time coded since Jun 7 2021" /></a>
 </p>
 
-My name is **CJ**, a developer who is interested and specialized in **Ethereum, Polkadot, Cosmos, Starknet, Zero-Knowledge, Privacing Computing and Cross Chain tech**.
+My name is **CJ**, a developer who is interested and specialized in **Rust, TypeScript, Solidity, Go**.
 
-I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.
+There are many things that I find interesting, but if picking those I focus on most, then it would be:
+
+- 1️⃣ incrementally verifiable and private computation with ZK and MPC
+- 2️⃣ quant trading with machine learning (ML)
+- 3️⃣ secure blockchain scaling with data-availability sampling (DAS)
+
+I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.  
+I stayed in France for 5 years, and was previously leading the **Real Time Location System (RTLS)** at [@Ubudu](https://github.com/ubudu). Now I'm leading the blockchain development at [@ParaSpace](https://github.com/para-space).
 
 I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching **Cheng JIANG**.
 
