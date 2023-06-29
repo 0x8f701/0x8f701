@@ -61,13 +61,13 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Projects
 
 - [ **Parallel** ](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem (Rust)
-- [ **ParaSpace** ](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace (Solidity)
+- [ **ParaSpace** ](https://github.com/para-space/paraspace-core) : A cross-margin ERC20/ERC721 lending & trading & staking protocol (Solidity)
 - [ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
-- [ **D3 Vs** ](https://github.com/GopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
 - [ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Diesel](https://github.com/diesel-rs/diesel) (Rust)
 - [ **Sqlx Adapter** ](https://github.com/casbin-rs/sqlx-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Sqlx](https://github.com/launchbadge/sqlx) (Rust)
 - [ **Json Rules Engine** ](https://github.com/GopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust (Rust)
 - [ **Actix Elastic** ](https://github.com/GopherJ/actix-elastic) : An actix actor for elasticsearch v7 (Rust)
+- [ **D3 Vs** ](https://github.com/GopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
 - [ **Layout Grid** ](https://github.com/GopherJ/LayoutGrid) : Layout grid system in VueJs (VueJs)
 - [ **ElsQuery** ](https://github.com/GopherJ/ElsQuery) : Full featured elasticsearch query generator (inspired by [Kibana](https://www.elastic.co/kibana/)) (VueJs)
 - [ **Vim Docker Env** ](https://github.com/GopherJ/vim-docker-env) : Vim docker development environment (Dockerfile)
