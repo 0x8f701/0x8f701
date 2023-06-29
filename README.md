@@ -41,23 +41,24 @@
 <a href="https://wakatime.com/@4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd"><img src="https://wakatime.com/badge/user/4963aeb7-d71c-41c5-95fb-d9f02cc0b4fd.svg?style=for-the-badge" alt="Total time coded since Jun 7 2021" /></a>
 </p>
 
-My name is **CJ**, a developer who is interested and specialized in **Rust, TypeScript, Solidity, Go**.
+My name is **CJ**, a developer who is interested and specialized in **Rust, C++, TypeScript, Solidity, Go**.
 
 There are many things that I find interesting, but if picking those I focus on most, then it would be:
 
 - 1️⃣ incrementally verifiable and private computation with ZK and MPC
 - 2️⃣ quant trading with machine learning (ML)
-- 3️⃣ secure blockchain scaling with data-availability sampling (DAS)
+- 3️⃣ parallel computing with software (Spark) and hardware (CUDA/FPGA)
+- 4️⃣ secure blockchain scaling with data-availability sampling (DAS)
 
-I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Network, System and Telecommunications**.  
+I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Réseaux et Télécommunications**.  
 I stayed in France for 5 years, and was previously leading the **Real Time Location System (RTLS)** at [@Ubudu](https://github.com/ubudu). Now I'm leading the blockchain development at [@ParaSpace](https://github.com/para-space).
 
-I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find me by searching **Cheng JIANG**.
+I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find my current ranking by searching **Cheng JIANG**.
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Projects
 
 - [ **Parallel** ](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem (Rust)
-- [ **Para Space** ](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace (Solidity)
+- [ **ParaSpace** ](https://github.com/para-space/paraspace-core) : P2Pool NFT Lending & Marketplace (Solidity)
 - [ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
 - [ **D3 Vs** ](https://github.com/GopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
 - [ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on Diesel (Rust)
