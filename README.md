@@ -66,6 +66,7 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [ **Json Rules Engine** ](https://github.com/GopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust (Rust)
 - [ **Actix Elastic** ](https://github.com/GopherJ/actix-elastic) : An actix actor for elasticsearch v7 (Rust)
 - [ **Layout Grid** ](https://github.com/GopherJ/LayoutGrid) : Layout grid system in VueJs (VueJs)
+- [ **ElsQuery** ](https://github.com/GopherJ/ElsQuery) : Full featured elasticsearch query generator (inspired by [Kibana](https://www.elastic.co/kibana/)) (VueJs)
 - [ **Vim Docker Env** ](https://github.com/GopherJ/vim-docker-env) : Vim docker development environment (Dockerfile)
 
 <a href="https://wakatime.com/@gopherj">
