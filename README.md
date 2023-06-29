@@ -65,7 +65,7 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
 - [ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Diesel](https://github.com/diesel-rs/diesel) (Rust)
 - [ **Sqlx Adapter** ](https://github.com/casbin-rs/sqlx-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Sqlx](https://github.com/launchbadge/sqlx) (Rust)
-- [ **Json Rules Engine** ](https://github.com/GopherJ/json-rules-engine-rs) : Full-featured json rules engine in Rust (Rust)
+- [ **Json Rules Engine** ](https://github.com/GopherJ/json-rules-engine-rs) : Full featured json rules engine (Rust)
 - [ **Actix Elastic** ](https://github.com/GopherJ/actix-elastic) : An actix actor for elasticsearch v7 (Rust)
 - [ **D3 Vs** ](https://github.com/GopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
 - [ **Layout Grid** ](https://github.com/GopherJ/LayoutGrid) : Layout grid system in VueJs (VueJs)
