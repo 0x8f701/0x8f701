@@ -53,8 +53,8 @@ There are many things that I find interesting, but if picking those I focus on m
 - 4️⃣ secure blockchain scaling with data-availability sampling (DAS)
 
 I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Réseaux et Télécommunications**.  
-I stayed in France for 5 years, and was previously leading the **Real Time Location System (RTLS)** at [@Ubudu](https://github.com/ubudu).  
-Now I'm leading the blockchain development at [@ParaSpace](https://github.com/para-space).
+I stayed in France for 5 years, and was previously leading the [**Indoor Location System (ILS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [@Ubudu](https://twitter.com/ubudu).  
+Now I'm leading the [**Protocol Development**](https://app.para.space) at [@ParaSpace](https://twitter.com/ParaSpace_NFT).
 
 I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find my current ranking by searching **Cheng JIANG**.
 
