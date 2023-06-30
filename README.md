@@ -25,6 +25,8 @@
 •
 <b><a href="https://blog.alexcj96.com">My Blog</a></b>
 •
+<b><a href="https://speakerdeck.com/alexcj96">Decks</a></b>
+•
 <b><a href="https://github.com/GopherJ/cfg">Dotfiles</a></b>
 •
 <b><a href="https://etherscan.io/address/0x2f2d07d60ea7330DD2314f4413CCbB2dC25276EF">Sponsor</a></b>
