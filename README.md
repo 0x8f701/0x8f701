@@ -49,10 +49,11 @@ My name is **CJ**, a developer who is interested and specialized in **Rust, C++,
 
 There are many things that I find interesting, but if picking those I focus on most, then it would be:
 
-- 1️⃣ incrementally verifiable and private computation with ZK and MPC
-- 2️⃣ quant trading with machine learning (ML)
-- 3️⃣ parallel computing with software (Spark, Flink) and hardware (GPU/FPGA)
+- 1️⃣ incrementally verifiable and private computation with ZK and MPC (Cryptography)
+- 2️⃣ derivatives, quant trading with machine learning (ML)
+- 3️⃣ parallel computing with software (Hadoop, Spark, Flink) and hardware (GPU/FPGA)
 - 4️⃣ secure blockchain scaling with data-availability sampling (DAS)
+- 5️⃣ programming language theory (λ)
 
 I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Réseaux et Télécommunications**.  
 I stayed in France for 5 years, and was previously leading the [**Indoor Location System (ILS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [@Ubudu](https://twitter.com/ubudu).  
