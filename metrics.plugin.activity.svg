@@ -29,6 +29,29 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#9422279</div>
+                                        <div class="message">update
+
+Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 Jul 2023, 15:17:43</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GopherJ/Ebooks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#43f937e</div>
                                         <div class="message">update
 
@@ -123,27 +146,6 @@ Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">11 Jul 2023, 13:09:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">para-space/paraspace-core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">improve/auto-compound</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d6db1ef</div>
-                                        <div class="message">Merge branch 'improve/auto-compound' of ssh://github.com/para-space/paraspace-core into improve/auto-compound</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Jul 2023, 13:05:58</div>
                             </section>
                         </div>
                     </section>
