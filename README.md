@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-<b><a href="mailto:cocathecafe@gmail.com">Email me</a></b>
+<b><a href="mailto:alex_cj96@foxmail.com">Email me</a></b>
 •
 <b><a href="https://www.alexcj96.com">My Website</a></b>
 •
@@ -53,7 +53,7 @@ There are many things that I find interesting, but if picking those I focus on m
 - 2️⃣ derivatives, quant trading with machine learning (ML)
 - 3️⃣ parallel computing with software (Hadoop, Spark, Flink) and hardware (GPU/FPGA)
 - 4️⃣ secure blockchain scaling with data-availability sampling (DAS)
-- 5️⃣ programming language theory (PL)
+- 5️⃣ programming language theory and virtual machine (PL, VM)
 
 I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Réseaux et Télécommunications**.  
 I stayed in France for 5 years, and was previously leading the [**Indoor Location System (ILS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [@Ubudu](https://twitter.com/ubudu).  
