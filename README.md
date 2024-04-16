@@ -57,9 +57,10 @@ There are many things that I find interesting, but if picking those I focus on m
 - 4️⃣ secure blockchain scaling with data-availability sampling (DAS)
 - 5️⃣ programming language theory and virtual machine (PL, VM)
 
-I graduated from [SHU](https://www.shu.edu.cn/) and obtained my Master degree at [UTT](https://www.utt.fr/) with a major in **Réseaux et Télécommunications**.  
-I stayed in France for 5 years, and was previously leading the [**RealTime Indoor Location System (RTLS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [@Ubudu](https://twitter.com/ubudu).  
-Now I'm leading the [**Blockchain Development**](https://www.youtube.com/watch?v=SENg0Sx2C40) at [@ParaSpace](https://twitter.com/ParaSpace_NFT).
+I graduated from [**SHU**](https://www.shu.edu.cn/) and obtained my Master degree in **Réseaux et Télécommunications** from [**UTT**](https://www.utt.fr/), France.  
+During my five-year stay in France, I led the [**RealTime Indoor Location System (RTLS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [**@Ubudu**](https://twitter.com/ubudu).  
+Subsequently, I headed the [**Blockchain Development**](https://www.youtube.com/watch?v=SENg0Sx2C40) at [**@ParaSpace**](https://twitter.com/ParaSpace_NFT).  
+Currently, I'm working as a ZK Engineer at [**@QEDProtocol**](https://twitter.com/QEDProtocol).
 
 I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find my current ranking by searching **Cheng JIANG**.
 
@@ -68,6 +69,8 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [ **Parallel** ](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem (Rust)
 - [ **ParaSpace** ](https://github.com/para-space/paraspace-core) : A cross-margin ERC20/ERC721 lending & trading & staking protocol (Solidity)
 - [ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
+- [ **Plonky2.5** ](https://github.com/QEDProtocol/plonky2.5) : A plonky2 verifier for plonky3 (Rust)
+- [ **L2-Core** ](https://github.com/L2Ordinals/l2o-core) : L2O Reference Implementation for zkApps on Bitcoin (Rust) 
 - [ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Diesel](https://github.com/diesel-rs/diesel) (Rust)
 - [ **Sqlx Adapter** ](https://github.com/casbin-rs/sqlx-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Sqlx](https://github.com/launchbadge/sqlx) (Rust)
 - [ **Json Rules Engine** ](https://github.com/GopherJ/json-rules-engine-rs) : Full featured json rules engine (Rust)
@@ -75,7 +78,6 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [ **D3 Vs** ](https://github.com/GopherJ/Vs) : Vue Visualisation Package using d3.js and leaflet (VueJs, d3-js, Leaflet)
 - [ **Layout Grid** ](https://github.com/GopherJ/LayoutGrid) : Layout grid system in VueJs (VueJs)
 - [ **ElsQuery** ](https://github.com/GopherJ/ElsQuery) : Full featured elasticsearch query generator (inspired by [Kibana](https://www.elastic.co/kibana/)) (VueJs)
-- [ **Vim Docker Env** ](https://github.com/GopherJ/vim-docker-env) : Vim docker development environment (Dockerfile)
 
 <a href="https://wakatime.com/@gopherj">
   <img alt="Contributions Metrics"  align="center" width="49%" src="./metrics.plugin.notable.svg"/>
