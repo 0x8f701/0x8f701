@@ -82,12 +82,6 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 <a href="https://wakatime.com/@gopherj">
   <img alt="Contributions Metrics"  align="center" width="49%" src="./metrics.plugin.notable.svg"/>
 </a>
-<a href="https://leetcode.com/GopherJ">
-  <img alt="LeetCode Metrics"  align="center" width="49%" src="./metrics.plugin.leetcode.svg"/>
-</a>
-<a href="https://wakatime.com/@gopherj">
-  <img alt="Github Metrics"  align="center" width="49%" src="./github-metrics.svg"/>
-</a>
 <a href="https://wakatime.com/@gopherj">
   <img alt="Activity Metrics" align="center" width="49%" src="./metrics.plugin.activity.svg"/>
 </a>
