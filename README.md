@@ -66,6 +66,7 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 
 ## <img src="https://github.com/timoth-y/timoth-y/blob/master/assets/coding.gif?raw=true" width="40">Projects
 
+- [ **City Rollup** ](https://github.com/QEDProtocol/city-rollup) : An experimental Zk Rollup on Dogecoin (Powered by OP_CHECKGROTH16VERIFY) (Rust)
 - [ **Parallel** ](https://github.com/parallel-finance/parallel) : A decentralized lending & staking protocol built on top of the Polkadot ecosystem (Rust)
 - [ **ParaSpace** ](https://github.com/para-space/paraspace-core) : A cross-margin ERC20/ERC721 lending & trading & staking protocol (Solidity)
 - [ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
