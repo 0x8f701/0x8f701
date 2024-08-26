@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="595" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="478" class="">
     <defs>
         <style/>
     </defs>
@@ -23,19 +23,75 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">GopherJ/webgpu-shaders</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7c54790</div>
+                                        <div class="message">disable driver timeout
+
+Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Aug 2024, 16:23:59</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GopherJ/webgpu-shaders</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b0aa3fa</div>
+                                        <div class="message">increase timeout
+
+Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Aug 2024, 16:07:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
                                         <span class="repo">GopherJ/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#79b0955</div>
+                                        <div class="sha">#682c7c5</div>
+                                        <div class="message">add lmd
+
+Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#484e29a</div>
+                                        <div class="message">Merge branch 'master' of github.com:GopherJ/dotfiles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1ea10f</div>
                                         <div class="message">chore: UPDATE
 
 Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2024, 09:25:12</div>
+                                <div class="timestamp">25 Aug 2024, 14:35:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -45,56 +101,18 @@ Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">GopherJ/miden-vm</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">GopherJ/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">next-webgpu</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fea8595</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/next' into next-webgpu</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e683be9</div>
-                                        <div class="message">fix: detect circular external nodes (#1464)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bf7503</div>
-                                        <div class="message">Only register local procedures in the MAST forest store (#1462)
-
-* fix: only register local procedures in the MAST forest store</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19ed5f4</div>
-                                        <div class="message">chore: change crate versions to v0.10.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ac5e91</div>
-                                        <div class="message">fix: miden-processor version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f9d3d7</div>
-                                        <div class="message">Merge branch 'main' into next</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8030370</div>
-                                        <div class="message">add basic block merging threshold (#1461)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62a49fd</div>
-                                        <div class="message">feat(assembler): merge adjacent basic blocks (#1454)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a74a372</div>
-                                        <div class="message">chore: update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea83f75</div>
-                                        <div class="message">feat: enable executing external `Dyn` nodes (#1455)</div>
+                                        <div class="sha">#73e2e55</div>
+                                        <div class="message">Merge branch 'master' of github.com:GopherJ/dotfiles</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2024, 02:26:34</div>
+                                <div class="timestamp">25 Aug 2024, 11:58:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -105,65 +123,19 @@ Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">GopherJ/miden-vm</span>
+                                        <span class="repo">GopherJ/dotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">next-webgpu</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bbd1cf8</div>
-                                        <div class="message">update miden-gpu rev
+                                        <div class="sha">#0107c7b</div>
+                                        <div class="message">remove unused
 
 Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2024, 02:24:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GopherJ/webgpu-shaders</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7447c89</div>
-                                        <div class="message">fix
-
-Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Aug 2024, 15:23:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GopherJ/webgpu-shaders</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#084c53c</div>
-                                        <div class="message">try
-
-Signed-off-by: GopherJ &lt;alex_cj96@foxmail.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">23 Aug 2024, 15:19:10</div>
+                                <div class="timestamp">25 Aug 2024, 11:41:12</div>
                             </section>
                         </div>
                     </section>
