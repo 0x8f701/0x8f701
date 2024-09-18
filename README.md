@@ -58,7 +58,7 @@ There are many things that I find interesting, but if picking those I focus on m
 
 I graduated from [**SHU**](https://www.shu.edu.cn/) and obtained my Master degree in **Réseaux et Télécommunications** from [**UTT**](https://www.utt.fr/), France.  
 During my five-year stay in France, I led the [**RealTime Indoor Location System (RTLS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [**@Ubudu**](https://twitter.com/ubudu).  
-Subsequently, I headed the [**Blockchain Development**](https://www.youtube.com/watch?v=SENg0Sx2C40) at [**@ParaSpace**](https://twitter.com/ParaSpace_NFT).  
+Subsequently, I headed the [**Blockchain Development**](https://www.youtube.com/watch?v=SENg0Sx2C40) at [**@ParallelFi**](https://twitter.com/ParallelFi).  
 Currently, I'm working as a ZK Engineer at [**@QEDProtocol**](https://twitter.com/QEDProtocol).
 
 I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), you can find my current ranking by searching **Cheng JIANG**.
