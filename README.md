@@ -53,9 +53,8 @@ There are many things that I find interesting, but if picking those I focus on m
 
 - 1️⃣ incrementally verifiable and private computation with ZK and MPC (Cryptography)
 - 2️⃣ derivatives, quant trading with machine learning (ML)
-- 3️⃣ parallel computing with software (Hadoop, Spark, Flink) and hardware (GPU/FPGA)
-- 4️⃣ secure blockchain scaling with data-availability sampling (DAS)
-- 5️⃣ programming language theory and virtual machine (PL, VM)
+- 3️⃣ parallel computing with software and hardware (GPU/FPGA)
+- 4️⃣ programming language theory and virtual machine (PL, VM)
 
 I graduated from [**SHU**](https://www.shu.edu.cn/) and obtained my Master degree in **Réseaux et Télécommunications** from [**UTT**](https://www.utt.fr/), France.  
 During my five-year stay in France, I led the [**RealTime Indoor Location System (RTLS)**](https://www.youtube.com/watch?v=kRT2EEE89ws) at [**@Ubudu**](https://twitter.com/ubudu).  
@@ -71,6 +70,8 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 - [ **ParaSpace** ](https://github.com/para-space/paraspace-core) : A cross-margin ERC20/ERC721 lending & trading & staking protocol (Solidity)
 - [ **Casbin RS** ](https://github.com/casbin/casbin-rs) : An authorization library that supports access control models like ACL, RBAC, ABAC in Rust (Rust)
 - [ **Plonky2.5** ](https://github.com/QEDProtocol/plonky2.5) : A plonky2 verifier for plonky3 (Rust)
+- [ **Ark-Swiftness** ](https://github.com/QEDProtocol/ark-swiftness) : A Cairo-VM Stark Verifier in Arkworks (Rust)
+- [ **Miden-VM WebGpu Acceleration** ](https://github.com/0xPolygonMiden/miden-vm/pull/1459) : Miden-VM WebGpu Acceleration (Rust)
 - [ **L2-Core** ](https://github.com/L2Ordinals/l2o-core) : L2O Reference Implementation for zkApps on Bitcoin (Rust) 
 - [ **Diesel Adapter** ](https://github.com/casbin-rs/diesel-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Diesel](https://github.com/diesel-rs/diesel) (Rust)
 - [ **Sqlx Adapter** ](https://github.com/casbin-rs/sqlx-adapter) : Casbin adapter for mysql, postgres, sqlite based on [Sqlx](https://github.com/launchbadge/sqlx) (Rust)
