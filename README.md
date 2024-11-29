@@ -84,6 +84,3 @@ I was **ranked #74** on [wakatime leaderboard](https://wakatime.com/leaders), yo
 <a href="https://wakatime.com/@gopherj">
   <img alt="Contributions Metrics"  align="center" width="49%" src="./metrics.plugin.notable.svg"/>
 </a>
-<a href="https://wakatime.com/@gopherj">
-  <img alt="Activity Metrics" align="center" width="49%" src="./metrics.plugin.activity.svg"/>
-</a>
