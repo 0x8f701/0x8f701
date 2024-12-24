@@ -10,7 +10,7 @@
 <br>
 
 <h1 align="center">
-  Hey! I'm <a href="https://etherscan.io/address/0x2f2d07d60ea7330dd2314f4413ccbb2dc25276ef">alexcj96.eth</a><img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
+  Hey! I'm alexcj96.sol<img align="top" src="https://media.giphy.com/media/vAi1XUShhkPpx9bEP4/giphy.gif" width="45">
 </h1>
 <br>
 
@@ -30,8 +30,6 @@
 <b><a href="https://static.alexcj96.com/Ebook/ebooks/">Ebooks</a></b>
 •
 <b><a href="https://static.alexcj96.com/Nutstore/Diagrams/Exported/">Diagrams</a></b>
-•
-<b><a href="https://etherscan.io/address/0x2f2d07d60ea7330DD2314f4413CCbB2dC25276EF">Sponsor</a></b>
 </p>
 
 <p align="center"><b>A human smart contract instance deployed on earth chain.</b></p>
