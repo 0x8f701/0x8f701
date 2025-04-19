@@ -21,15 +21,15 @@
 <p align="center">
 <b><a href="mailto:alex_cj96@foxmail.com">Email me</a></b>
 •
-<b><a href="https://www.alexcj96.com">My Website</a></b>
+<b><a href="https://www.0x8f701.xyz">My Website</a></b>
 •
-<b><a href="https://blog.alexcj96.com">My Blog</a></b>
+<b><a href="https://blog.0x8f701.xyz">My Blog</a></b>
 •
 <b><a href="https://speakerdeck.com/alexcj96">Decks</a></b>
 •
-<b><a href="https://static.alexcj96.com/Ebook/ebooks/">Ebooks</a></b>
+<b><a href="https://static.0x8f701.xyz/Ebook/ebooks/">Ebooks</a></b>
 •
-<b><a href="https://static.alexcj96.com/Nutstore/Diagrams/Exported/">Diagrams</a></b>
+<b><a href="https://static.0x8f701.xyz/Nutstore/Diagrams/Exported/">Diagrams</a></b>
 </p>
 
 <p align="center"><b>A human smart contract instance deployed on earth chain.</b></p>
